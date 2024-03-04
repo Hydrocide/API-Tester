@@ -75,5 +75,5 @@ if __name__ == '__main__':
     # os.system('git init')
     # os.system('git add datatypes.py')
     # os.system('git add main.py')
-    os.system('git commit -a -m "programmatic commit"')
-    
+    # os.system('git commit -a -m "programmatic commit"')
+    os.system('git commit -a -m "Merge conflict!"')
