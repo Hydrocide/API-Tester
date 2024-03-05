@@ -71,11 +71,4 @@ if __name__ == '__main__':
     # except Exception as e:
     #     print(e)
     #githubber(connor, stop_event)
-
-    # os.system('git init')
-    # os.system('git add datatypes.py')
-    # os.system('git add main.py')
-    # os.system('git commit -a -m "programmatic commit"')
-    # os.system('git branch experimental')
-    os.system('git switch experimental')
-    os.system('git commit -a')
+    
